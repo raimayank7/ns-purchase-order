@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://purchase-order.niveshsahayak.in/sitemap.xml
